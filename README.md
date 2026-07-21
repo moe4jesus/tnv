@@ -84,8 +84,7 @@ This value shapes both structure and tone:
 |-------------|--------------------|
 Merge Request Acceptance | "Thank you for this thoughtful submission, [@contributor]! Your research into [lexicon/grammar reference] strengthened the translation in this verse."
 Merge Request Decline | "Thank you for investing time in studying this passage, [@contributor]. I've learned from your research on [specific point]. While this particular rendering won't be adopted for [reason], your engagement deepens the conversation around this text."
-Merge Request Revision | "Thanks for submitting this proposal, [@contributor]! Your insight about [observation] is valuable. Would you be willing to look up [term] in [resource]?"
-THANKS.md File. Prominent listing with privacy options; updated monthly; searchable by contributor name
+Merge Request Revision | "Thanks for submitting this proposal, [@contributor]! Your insight about [observation] is valuable. Would you be willing to look up [term] in [resource]?". THANKS.md File. Prominent listing with privacy options; updated monthly; searchable by contributor name
 Crowdfunding Recognition | Tiered acknowledgment benefits; anonymous option available; gratitude ritualized monthly via newsletter
 Annual Reports | Year-end gratitude statement with cumulative stats and contributor highlights
 
