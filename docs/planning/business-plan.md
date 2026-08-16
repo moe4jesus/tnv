@@ -1092,7 +1092,7 @@ Coordinate with estate attorney:
 | Priority | Task | Time Estimate | Owner | Status |
 |----------|------|---------------|-------|--------|
 | ~~1~~ | ~~Set up GitHub repository with README explaining project vision~~ | 4 hours | Copyright holder | Done |
-| 2 | Create /docs/recommended-resources.md with full resource list | 2 hours | Copyright holder |
+| ~~2~~ | ~~Create /docs/recommended-resources.md with full resource list~~ | 2 hours | Copyright holder | Done |
 | 3 | Draft CONTRIBUTING.md with citation format examples | 3 hours | Copyright holder |
 | 4 | Translate and publish first proof-of-concept book portion | 10-20 hours | Copyright holder |
 | 5 | Configure static site generation and deployment pipeline | 3 hours | Copyright holder |
