@@ -1089,9 +1089,9 @@ Coordinate with estate attorney:
 | Trademark Consideration | "TNV" brand protection | Consider trademark registration after 2+ years |
 
 # Immediate Action Items (First 30 Days)
-| Priority | Task | Time Estimate | Owner |
-|----------|------|---------------|-------|
-| 1 | Set up GitHub repository with README explaining project vision | 4 hours | Copyright holder |
+| Priority | Task | Time Estimate | Owner | Status |
+|----------|------|---------------|-------|--------|
+| ~~1~~ | ~~Set up GitHub repository with README explaining project vision~~ | 4 hours | Copyright holder | Done |
 | 2 | Create /docs/recommended-resources.md with full resource list | 2 hours | Copyright holder |
 | 3 | Draft CONTRIBUTING.md with citation format examples | 3 hours | Copyright holder |
 | 4 | Translate and publish first proof-of-concept book portion | 10-20 hours | Copyright holder |
