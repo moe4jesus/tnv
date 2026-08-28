@@ -1,0 +1,1 @@
+[Brown-Driver-Briggs Hebrew Lexicon @ Sefaria - human readable](https://www.sefaria.org/BDB?tab=contents) or [Brown-Driver-Briggs Hebrew Lexicon @ eliranwong at GitHub - machine readable](https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon)
