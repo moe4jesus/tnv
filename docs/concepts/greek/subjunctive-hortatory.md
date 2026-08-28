@@ -13,7 +13,7 @@ Cooperative command, such as "let us..."
 The subjunctive mood is generally described as "the mood expressive of doubt"[^1], but in this case the doubt aspect is virtually non-existent, except perhaps in the sense of doubt of whether the other(s) will join in.
 
 ## See also
-* [Prohibitive Subjunctive]()
+* [Prohibitive Subjunctive](subjunctive-prohibitive.md)
 * [Deliberative Subjunctive]()
 * [Emphatic Negation with a Subjunctive]()
 * [Final Subjunctive]()
