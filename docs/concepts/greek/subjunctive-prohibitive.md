@@ -35,7 +35,7 @@ emphatic: "do not ever..."
 The subjunctive mood is generally described as "the mood expressive of doubt"[^1], but in this case the doubt aspect is virtually non-existent, except perhaps in the sense of doubting permissibility.
 
 ## See also
-* [Horatory Subjunctive](docs/concepts/greek/subjunctive-hortatory.md)
+* [Horatory Subjunctive](subjunctive-hortatory.md)
 * [Deliberative Subjunctive]()
 * [Emphatic Negation with a Subjunctive]()
 * [Final Subjunctive]()
