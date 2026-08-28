@@ -2,14 +2,16 @@
 
 ## Referenced Basis
 
-One use of the subjunctive mood is prohbitive, "entreats that such a thing not even begin"[^2].  
+The subjunctive mood is generally described as "the mood expressive of doubt"[^1].  When a negative is used with a subjunctive, it expresses the removal of doubt in the form of a prohibition. 
 
 This form always appears with a negative:
 > μή + a verb in the aorist subjunctive is used to indicate a prohibition.
 > 
 > οὐ μή + a verb in the aorist subjunctive is used to indicate an emphatic prohibition. Jesus uses this form to express that something will never happen. It adds extra strength to the prohibition.[^1]
 
-Some more details about its use:
+Alfred describes the οὐ μή subjunctive construct as "Emphatic Negative", where "all such contingency and possibility is removed; i.e., it is stating that there is absolutely no possibility for such and such a thing to occur"[^2]
+
+Some more details about the prohibitive use of a subjunctive:
 > a) It is used to forbid in advance the initiation or occurrence of an action.
 >
 > b) It is formed by using the negating adverb (μή) with the aorist subjunctive, typically in the second person. It is equivalent to imperative after μή.
@@ -26,13 +28,13 @@ Some more details about its use:
 
 ## Nuance Preserved in TNV
 
-regular: "do not..."
+Regular negative: "do not..."
 
-emphatic: "do not ever..."
+Emphatic negative: "do not ever..."
 
 ## Comments
 
-The subjunctive mood is generally described as "the mood expressive of doubt"[^1], but in this case the doubt aspect is virtually non-existent, except perhaps in the sense of doubting permissibility.
+None
 
 ## See also
 * [Horatory Subjunctive](subjunctive-hortatory.md)
